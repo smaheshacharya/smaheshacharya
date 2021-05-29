@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there I'm S Mahesh Acharya 👋
 
-<!--
-**smaheshacharya/smaheshacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer and  Digital Marketer . Currently working as a Software Engineer at [AlphaTEDS](https://alphateds.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Pyhton Development
+- 🌱 I’m currently learning Machine Learning (Reinforcement learning)
+- 👯 I’m looking to collaborate with Software Entrepreneur
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Web Developemnt, Digital Marketing and Content Creation
+- ⚡ Fun fact: I watch lots of video on Youtube especially about politics
 -->
+___
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+
+[website]: https://mahesha.com.np
+[twitter]: https://twitter.com/SMaheshAcharya1
+[youtube]: https://www.youtube.com/channel/UCOQMLVJpc32HIiREkjVenyw
+[linkedin]: https://www.linkedin.com/in/smaheshacharya/
+[facebook]: https://www.facebook.com/acharyamaheshs/
+[instagram]: https://www.instagram.com/smaheshacharya/
+
+
