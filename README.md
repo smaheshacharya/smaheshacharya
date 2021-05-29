@@ -22,7 +22,9 @@ ___
  
  ___
 ### 📕 Contact Detail
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phone.svg" />] +977-9861007803
+-Phone: 9861007803, 9813083624
+-Gmail: iammaheshacharya@gmail.com, mahesh01acharya@gmail.com
+-Location: Nepal, Kathmandu
 
 
 [website]: https://mahesha.com.np
