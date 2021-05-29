@@ -21,10 +21,12 @@ ___
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
  
  ___
+ 
 ### 📕 Contact Detail
--Phone: 9861007803, 9813083624
--Gmail: iammaheshacharya@gmail.com, mahesh01acharya@gmail.com
--Location: Nepal, Kathmandu
+
+- Phone: 9861007803, 9813083624
+- Gmail: iammaheshacharya@gmail.com, mahesh01acharya@gmail.com
+- Location: Nepal, Kathmandu
 
 
 [website]: https://mahesha.com.np
