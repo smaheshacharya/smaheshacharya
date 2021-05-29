@@ -6,7 +6,6 @@ I'm a Software Engineer and  Digital Marketer . Currently working as a Software 
 - 🔭 I’m currently working on Pyhton Development
 - 🌱 I’m currently learning Machine Learning (Reinforcement learning)
 - 👯 I’m looking to collaborate with Software Entrepreneur
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Web Developemnt, Digital Marketing and Content Creation
 - ⚡ Fun fact: I watch lots of video on Youtube especially about politics
 
