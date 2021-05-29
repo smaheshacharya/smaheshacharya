@@ -9,7 +9,7 @@ I'm a Software Engineer and  Digital Marketer . Currently working as a Software 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Web Developemnt, Digital Marketing and Content Creation
 - ⚡ Fun fact: I watch lots of video on Youtube especially about politics
--->
+
 ___
 
 ### Connect with me:
