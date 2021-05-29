@@ -23,7 +23,7 @@ ___
 ___
 
 
-### 📕 Contact Detail:
+### Contact Detail:
 
 - Phone: 9861007803, 9813083624
 - Gmail: iammaheshacharya@gmail.com, mahesh01acharya@gmail.com
