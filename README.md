@@ -10,6 +10,7 @@ I'm a Software Engineer and  Digital Marketer . Currently working as a Software 
 - ⚡ Fun fact: I watch lots of video on Youtube especially about politics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smaheshacharya&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smaheshacharya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
